@@ -53,6 +53,7 @@ When the answer is obvious and the change is trivial, still answer first. Then o
 - Assume a dev server is already running. Start a long-running one only when the task genuinely requires it.
 - Verify with the cheapest check that proves the change: typecheck, lint, focused tests.
 - Run a full build only when it is the only reliable check, or I ask for one.
+- For web lookups, use your built-in web search and fetch first. Use Firecrawl only when I ask for it, or when the built-in tools fail.
 
 ## TypeScript
 
