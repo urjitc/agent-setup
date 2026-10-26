@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thermo-Nuclear Code Quality Review"
+  short_description: "Strict maintainability review"
+  default_prompt: "Run a thermo-nuclear code quality review of the current changes."
