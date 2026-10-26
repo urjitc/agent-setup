@@ -1,25 +1,6 @@
 {
   "version": 3,
   "skills": {
-    "find-skills": {
-      "source": "vercel-labs/skills",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/vercel-labs/skills.git",
-      "skillPath": "skills/find-skills/SKILL.md",
-      "skillFolderHash": "c2f31172b6f256272305a5e6e7228b258446899f",
-      "installedAt": "2026-01-27T02:48:52.774Z",
-      "updatedAt": "2026-01-27T02:48:52.774Z"
-    },
-    "codebase-design": {
-      "source": "mattpocock/skills",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/mattpocock/skills.git",
-      "skillPath": "skills/engineering/codebase-design/SKILL.md",
-      "skillFolderHash": "20b7cd1dd1fe5b0bd37ba72649f3a29375574b5b",
-      "pluginName": "mattpocock-skills",
-      "installedAt": "2026-06-17T15:13:18.992Z",
-      "updatedAt": "2026-08-14T19:22:24.035Z"
-    },
     "grilling": {
       "source": "mattpocock/skills",
       "sourceType": "github",
@@ -30,26 +11,6 @@
       "installedAt": "2026-06-17T15:13:18.994Z",
       "updatedAt": "2026-08-14T19:22:24.057Z"
     },
-    "handoff": {
-      "source": "mattpocock/skills",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/mattpocock/skills.git",
-      "skillPath": "skills/productivity/handoff/SKILL.md",
-      "skillFolderHash": "184d485ae68a2132893a94239b2b85d253e6152b",
-      "pluginName": "mattpocock-skills",
-      "installedAt": "2026-06-17T15:13:18.995Z",
-      "updatedAt": "2026-08-14T19:22:24.058Z"
-    },
-    "improve-codebase-architecture": {
-      "source": "mattpocock/skills",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/mattpocock/skills.git",
-      "skillPath": "skills/engineering/improve-codebase-architecture/SKILL.md",
-      "skillFolderHash": "6a971d1f5b109ac817e18c0f0419c2a32d60f26a",
-      "pluginName": "mattpocock-skills",
-      "installedAt": "2026-06-17T15:13:18.995Z",
-      "updatedAt": "2026-08-14T19:22:24.040Z"
-    },
     "prototype": {
       "source": "mattpocock/skills",
       "sourceType": "github",
@@ -59,54 +20,6 @@
       "pluginName": "mattpocock-skills",
       "installedAt": "2026-06-17T15:13:18.996Z",
       "updatedAt": "2026-08-14T19:22:24.041Z"
-    },
-    "code-review": {
-      "source": "mattpocock/skills",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/mattpocock/skills.git",
-      "skillPath": "skills/engineering/code-review/SKILL.md",
-      "skillFolderHash": "7a2057dcc514dc024d4e6bf8ad78021b97f229ae",
-      "pluginName": "mattpocock-skills",
-      "installedAt": "2026-08-14T19:22:24.034Z",
-      "updatedAt": "2026-08-14T19:22:24.034Z"
-    },
-    "wizard": {
-      "source": "mattpocock/skills",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/mattpocock/skills.git",
-      "skillPath": "skills/engineering/wizard/SKILL.md",
-      "skillFolderHash": "359db2fb13dc168346632556185252cab9dbec77",
-      "pluginName": "mattpocock-skills",
-      "installedAt": "2026-08-14T19:22:24.050Z",
-      "updatedAt": "2026-08-14T19:22:24.050Z"
-    },
-    "writing-for-agents": {
-      "source": "mattpocock/skills",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/mattpocock/skills.git",
-      "skillPath": "skills/productivity/writing-for-agents/SKILL.md",
-      "skillFolderHash": "bd9c9c4762db0a9a094fd419316ebd4b0444d06e",
-      "pluginName": "mattpocock-skills",
-      "installedAt": "2026-08-14T19:22:24.061Z",
-      "updatedAt": "2026-08-14T19:22:24.061Z"
-    },
-    "polylane": {
-      "source": "coreplanelabs/skills",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/coreplanelabs/skills.git",
-      "skillPath": "skills/polylane/SKILL.md",
-      "skillFolderHash": "6ee396c38232952a80c43a20727e6416a4931b87",
-      "installedAt": "2026-09-28T22:23:18.805Z",
-      "updatedAt": "2026-09-28T22:23:18.805Z"
-    },
-    "polylane-cli": {
-      "source": "coreplanelabs/skills",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/coreplanelabs/skills.git",
-      "skillPath": "skills/polylane-cli/SKILL.md",
-      "skillFolderHash": "d3ca7b6db544eb36aa03bc5b2a202b4789c0c66b",
-      "installedAt": "2026-09-28T22:23:18.820Z",
-      "updatedAt": "2026-09-28T22:23:18.820Z"
     }
   },
   "dismissed": {
